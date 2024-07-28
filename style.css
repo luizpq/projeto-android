@@ -4,6 +4,7 @@
     font-weight: normal;
 }
 
+
 main{
     background-color: white;
     padding: 20px;
@@ -16,6 +17,7 @@ main{
     text-align: justify;
     text-indent: 30px;
     line-height: 2em;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 div.video{
@@ -52,6 +54,7 @@ body{
 
 h2{
     background-image: linear-gradient(to right, #87c797, #95ebaab6, #abfabf25);   
+    margin: 20px 0px;
 }
 
 .t2{
@@ -59,10 +62,11 @@ h2{
     font-weight: normal;
     color: #063d14;
     text-align: left;
+    margin: 20px 0px;
 }
 
 header{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Barlow Condensed", sans-serif;
     background-image: linear-gradient(to top, #063d14, #11421D, #659671, #61C079);
     padding: 45px 16px 3px 16px;
     margin: auto;
@@ -71,11 +75,13 @@ header{
     text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.342);   
     min-height: 150px;    
     margin-top: -10px;
+    font-size: 1.5em;
 }
 
 header > p{
     padding-top: 30px;
     padding-bottom: 20px;
+    
 }
 
 nav > a{
