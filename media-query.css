@@ -5,9 +5,9 @@
  ul.conteiner{
    display: flex;
    justify-content: space-between;
-   font-size: 0.9em;
-   width: 400px;
-   
+   font-size: 0.86em;
+   width: 395px;
+   margin-left: -25px;
  }
 }
 
