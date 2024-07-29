@@ -109,9 +109,9 @@ nav > a:hover{
 
 article > ul{
     text-decoration: dashed;
-    padding: 10px;
+    padding: 10px 0px;
     list-style-position: inside;
-    columns: 2;     
+    columns: 2; 
     list-style-type: '\2714\00A0';    
 }
 
