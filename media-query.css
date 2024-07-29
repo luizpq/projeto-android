@@ -4,6 +4,7 @@
 
  ul.conteiner{
    display: flex;
+   justify-content: space-between;
  }
 }
 
